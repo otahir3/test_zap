@@ -5,8 +5,11 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "firstname": "omario",
-    "lastname": "tahirio"
-  }
+  "profile": [
+    {
+      "id": 123456,
+      "firstname": "omar",
+      "lastname": "tahir"
+    }
+  ],
 }
